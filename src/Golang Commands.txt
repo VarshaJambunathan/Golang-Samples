@@ -1,4 +1,4 @@
-Golang Commands:
+Golang Commands for Windows:
 
 1.go env
 2.go version
@@ -10,3 +10,5 @@ go build <filename>.go
 <filename>.exe
 
 4.go fmt <filename>.go
+5.go install <url>
+6.go help
