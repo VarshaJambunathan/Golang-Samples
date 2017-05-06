@@ -1,0 +1,12 @@
+Golang Commands:
+
+1.go env
+2.go version
+3.go run <filename>.go
+
+or
+
+go build <filename>.go
+<filename>.exe
+
+4.go fmt <filename>.go
